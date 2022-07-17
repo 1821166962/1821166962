@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 上川嘉楠
-- 👀 I’m interested in 打电动 研究c#以及unity3d交互
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in Web开发 Python爬虫
+- 🌱 I’m currently learning Web开发 Python爬虫
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
